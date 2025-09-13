@@ -1,0 +1,14 @@
+
+venv/
+.vscode/
+__pycache__/
+*.pyc
+*.txt
+*.fasta
+notebook/*.ipynb
+*.ipynb_checkpoints/
+data/fastq/
+data/models/
+data/new_samples/
+data/raw_data/
+Vladmir.egg-info/
