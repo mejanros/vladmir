@@ -9,4 +9,3 @@ install:
 
 system-deps:
 	@sudo apt-get update
-	@sudo apt install sra-toolkit
